@@ -1,2 +1,2 @@
 #!/bin/bash
-cat coding.txt
+cat coding
